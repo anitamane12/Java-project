@@ -1,2 +1,2 @@
 # Java-project
-Demo 
+Demo & learning
